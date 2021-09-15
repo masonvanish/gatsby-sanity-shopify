@@ -1,7 +1,7 @@
 import React from 'react'
 import Emoji from 'a11y-react-emoji'
 
-import Tabs from 'sanity-plugin-tabs'
+// import Tabs from 'sanity-plugin-tabs'
 
 const Icon = () => (<Emoji style={{ fontSize: '2rem' }} symbol='🌎' />)
 

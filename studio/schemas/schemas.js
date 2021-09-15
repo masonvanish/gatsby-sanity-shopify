@@ -29,7 +29,6 @@ import pageModule from './modules/pageModule'
 import globalContent from './tabs/globalContent'
 import pageContent from './tabs/pageContent'
 
-
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
   // We name our schema

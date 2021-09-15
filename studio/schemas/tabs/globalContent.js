@@ -1,9 +1,9 @@
-import Tabs from 'sanity-plugin-tabs'
+// import Tabs from 'sanity-plugin-tabs'
 
 export default {
   name: "globalContent",
   type: "object",
-  inputComponent: Tabs,
+  // inputComponent: Tabs,
   fieldsets: [
     { name: "defaultMeta", title: "Meta" },
     { name: "social", title: "Social" }
